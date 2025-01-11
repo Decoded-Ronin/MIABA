@@ -24,3 +24,9 @@ OR
 This is the beta version of MIABA. It includes basic functionality to manage users and aliases 
 on your Mail-in-a-Box server. Some features may be incomplete, and bugs may be present. We encourage 
 you to try out the app and report any issues you encounter.
+
+## Contact
+### SimpleX:
+https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FsVyfMCToKJHsechQ1Kbl1rTel7gqX2yd%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAI1AqpPgSJAM01QAXO2itQgvxDAFoUKwiTez3CpvEhmY%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22groupLinkId%22%3A%22ToVeBeJ6DQ_bpvUCeiDlFw%3D%3D%22%7D
+### XMPP:
+miaba@conference.conversations.im
